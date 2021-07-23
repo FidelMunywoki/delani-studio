@@ -11,3 +11,13 @@
     height: 100vh;
 }
 
+
+#services{
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-size: cover;
+    height: 50vh;
+}
+
+.mt-6 {
+    margin-top: 8rem; 
+}

@@ -9,5 +9,23 @@
   #intro{
     background-image: url(../assets/backgrounds/h_img.jpg);
     height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+
+#services{
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-size: cover;
+    height: 50vh;
+}
+
+.mt-6 {
+    margin-top: 8rem; 
+}
+
+.mt-50 {
+    top: 25%;
+    left: 30%
 }
 

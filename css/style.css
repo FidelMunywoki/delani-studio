@@ -81,7 +81,7 @@
     background-image: url(../assets/backgrounds/c_image.jpg);
     background-size: cover;
     background-position: center;
-    height: 68vh;
+
 }
 
 
@@ -112,3 +112,15 @@ button{
     margin-left: 40%;
     
 }
+
+.footer li{
+    list-style: none;
+    padding: 1%;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .pad-sm-portfolio {
+      padding-bottom: 2rem;
+    }
+  }

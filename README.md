@@ -15,8 +15,7 @@ The website is fully responsinve hence it be viewed from mobile phone, tablet, o
 * All the images used in this project are stored in the assets folder.
 * For development HTML and CSS/Bootstrap 5 were used.
 * ---------------------------------
-* git clone https://github.com/FidelMunywoki/Akan-Names.git
-
+* git clone https://github.com/FidelMunywoki/delani-studio.git
 ## Known Bugs
 The form to refresh after sending the details to mailchimp API. 
 

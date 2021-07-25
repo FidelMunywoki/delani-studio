@@ -1,4 +1,4 @@
-# AKAN NAMES GENERATOR
+# DELANI STUDIO
 #### This project is a web application that gives a user a view of the services offered by DELANI STUDIO.
 
 #### By **Fidel Munywoki**

@@ -67,15 +67,13 @@ function validate(){
             icon: "success",
             button: "OK!",
           });
-          //document.querySelector('form').reset();
+       
+       
         
     }else {
         return false;
     }
-    // document.getElementById('form').addEventListener('submit',function(e) {
-    //    // e.preventDefault();
-
-    // });
+  
 
 
 } 

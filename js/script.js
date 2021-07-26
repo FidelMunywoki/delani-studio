@@ -67,6 +67,8 @@ function validate(){
             icon: "success",
             button: "OK!",
           });
+
+          document.getElementById('#form').reset()
        
        
         
